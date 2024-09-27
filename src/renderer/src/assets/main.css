@@ -38,7 +38,6 @@ code {
   margin-bottom: 20px;
   -webkit-user-drag: none;
   height: 128px;
-  width: 128px;
   will-change: filter;
   transition: filter 300ms;
 }

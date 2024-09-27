@@ -1,12 +1,12 @@
-# electron-app
+# App en Electron con React y TypeScript
+
+## Crear un nuevo proyecto
 
 ```cmd
 npm create @quick-start/electron
+```
 
-
-An Electron application with React and TypeScript
-
-## Recommended IDE Setup
+## Recomendados para IDE Setup
 
 - [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
@@ -15,24 +15,24 @@ An Electron application with React and TypeScript
 ### Install
 
 ```bash
-$ npm install
+$ bun install
 ```
 
 ### Development
 
 ```bash
-$ npm run dev
+$ bun run dev
 ```
 
 ### Build
 
 ```bash
-# For windows
-$ npm run build:win
+# Para windows
+$ bun run build:win
 
-# For macOS
-$ npm run build:mac
+# Para macOS
+$ bun run build:mac
 
-# For Linux
-$ npm run build:linux
+# para Linux
+$ bun run build:linux
 ```
