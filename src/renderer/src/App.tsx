@@ -14,7 +14,7 @@ function App(): JSX.Element {
       </div>
       <p className="tip">
         {/* Please try pressing <code>F12</code> to open the devTool */}
-        Powered by JCC Producciones
+        Powered by JCC Producciones - 2024
       </p>
       <div className="actions">
         <div className="action">
